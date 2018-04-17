@@ -6,7 +6,6 @@ import time
 
 from my_ia import *
 from config import *
-from my_solution_ia import ia_turn_solution
 
 #init window
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
