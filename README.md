@@ -12,7 +12,7 @@ A decision tree is a decision support tool that uses a tree-like graph or model 
 ## Your Objectif:
 We have coded a game of tic tac toe, on this game there is a player that is versing an A.I.
 
-Your job is ti create that A.I. using the MiniMax Algorithme.
+Your job is to create that A.I. using the MiniMax Algorithme.
 More about this algorithme at this page : https://www.neverstopbuilding.com/blog/2013/12/13/tic-tac-toe-understanding-the-minimax-algorithm13
  
 Making a decision tree is quite a complex thinking process but not so hard to code.
